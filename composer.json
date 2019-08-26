@@ -1,0 +1,19 @@
+{
+	"name": "zeroibc/ecapi-php",
+	"description": "bs open api",
+	"version": "1.0.0",
+	"type": "library",
+	"authors": [
+		{
+			"name": "zeroibc",
+			"email": "zeroibc@qq.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Zeroibc\\": "src/"
+		}
+	},
+	"license": "MIT"
+}
